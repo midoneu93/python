@@ -10,3 +10,6 @@ print(median)
 
 stdev = statistics.stdev(example_list)
 print(stdev)
+
+variance = statistics.variance(example_list)
+print(variance)
