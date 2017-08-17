@@ -5,6 +5,4 @@ v = np.matrix('1; 1; 1')
 
 mv = m*v
 
-print(m)
-print(v)
 print(mv)
